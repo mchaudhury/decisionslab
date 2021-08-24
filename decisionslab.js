@@ -171,7 +171,7 @@ console.log(changeMyMind);
 
 var myFavoriteNumbers = [4,8,12,16,20,24];
 
-let someNum = arr[4];
+let someNum = myFavoriteNumbers[4];
 
 
 // problem 10, part 2
